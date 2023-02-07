@@ -268,3 +268,9 @@ p {
 .textkakia:hover {
 	color: #707070;
 }
+@media (max-width: 1069px) {
+	.m02 {
+		margin-top: 1775px;
+		margin-left: 850px;
+	}
+}
